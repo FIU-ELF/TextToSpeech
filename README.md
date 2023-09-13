@@ -6,7 +6,18 @@ pip install azure-cognitiveservices-speech
 
 ## Create A Cognitive Service in your resource group
 
+<p align="middle">
+      <img src="/images/cog.png" alt="cognitive services" width="80%" height="80%">
+</p>
 ## Add key to speech_loop.py
+
+<p align="middle">
+      <img src="/images/key.png" alt="cognitive services" width="80%" height="80%">
+</p>
+
+<p align="middle">
+      <img src="/images/pythonkey.png" alt="cognitive services" width="80%" height="80%">
+</p>
 
 ## Instructions
 One approach to slide making can be creating slides and then creating narrations for those slides. Azure's Text to Speech is a convenient way of creating voice overs for slides. With this script, we have a folder called "text" which contains the text files we want to use for our slides. In our example, slide1.txt corresponds to the text we want for slide 1.
@@ -16,7 +27,9 @@ To rerun the text to speech, assuming you wanted to make edits, just delete the 
 
 This is a convenient way to batch create slide voiceovers.
 
-
+<p align="middle">
+      <img src="/images/speech.png" alt="cognitive services" width="80%" height="80%">
+</p>
 
 
 
