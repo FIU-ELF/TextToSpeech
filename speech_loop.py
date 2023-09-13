@@ -1,7 +1,5 @@
 import os
 import json
-import ntpath
-import requests
 import azure.cognitiveservices.speech as speechsdk
 #input your key from Azure Cognitive Services
 key="" 
