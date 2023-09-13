@@ -8,11 +8,8 @@ pip install azure-cognitiveservices-speech
 
 ## Add key to speech_loop.py
 
-## Edit files in text directory
+## Instructions
 
-## Empty wav directory
-
-## Run speech_loop.py
 
 
 
