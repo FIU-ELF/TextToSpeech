@@ -1,20 +1,21 @@
 # Text To Speech
-Example of using Azure Cognitive Services Text to Speech to convert various text files to speech.
+Example of using Azure Cognitive Services Text to Speech to convert various text files to speech for Hackathon 2022 and 2023 using Python.
 
 ## Python Requirements
 pip install azure-cognitiveservices-speech
 
 ## Create A Cognitive Service in your resource group
-
+First, create a cognitive service.
 <p align="middle">
       <img src="/images/cog.png" alt="cognitive services" width="80%" height="80%">
 </p>
 ## Add key to speech_loop.py
-
+In the cognitive service, there will be a key. Copy it.
 <p align="middle">
       <img src="/images/key.png" alt="cognitive services" width="80%" height="80%">
 </p>
 
+Then paste that key into this part of the python script.
 <p align="middle">
       <img src="/images/pythonkey.png" alt="cognitive services" width="80%" height="80%">
 </p>
