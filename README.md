@@ -27,6 +27,8 @@ To rerun the text to speech, assuming you wanted to make edits, just delete the 
 
 This is a convenient way to batch create slide voiceovers.
 
+To change the voice, update the below code from these choices: https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts#supported-languages
+
 <p align="middle">
       <img src="/images/speech.png" alt="cognitive services" width="80%" height="80%">
 </p>
