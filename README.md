@@ -5,7 +5,7 @@ Example of using Azure Cognitive Services Text to Speech to convert various text
 pip install azure-cognitiveservices-speech
 
 ## Create A Cognitive Service in your resource group
-First, create a cognitive speech service in Azure.
+First, create a cognitive speech service in Azure. Note, the python script is setup for region EastUS2. 
 <p align="middle">
       <img src="/images/cog.png" alt="cognitive services" width="80%" height="80%">
 </p>
